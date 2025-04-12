@@ -35,7 +35,7 @@ Access the application on [Hugging Face Spaces](https://huggingface.co/spaces/yb
    streamlit run app.py
 
 ### Example
-![Generated image vs Corrected image](https://drive.google.com/file/d/1Ww8PWG0Vh3UqXRp8K2wpZKuOrebpgcsr/view?usp=sharing)
+![Generated image vs Corrected image](https://drive.google.com/uc?id=1Ww8PWG0Vh3UqXRp8K2wpZKuOrebpgcsr)
 
 ### License
 This project is licensed under the MIT License. See LICENSE for details.
