@@ -1,0 +1,8 @@
+streamlit
+gradio-client
+Pillow
+opencv-python
+numpy
+pytesseract
+textwrap3
+google-genai
