@@ -151,7 +151,7 @@ if st.button("Generate Image"):
             if text_dimensions:
                 ext_text = " ".join([word[0] for word in text_dimensions])
                 try:
-                    client_gemini = genai.Client(api_key="AIzaSyABRLypWnYp0nv3bCj1xl7ijv8V2WeaLsE")
+                    client_gemini = genai.Client(api_key="Gemini_API_Key")
                     response = client_gemini.models.generate_content(model="gemini-2.0-flash", contents=ext_text + " - Just provide me the corrected and meaningful text, nothing extra")
                     final_text_gemini = response.text.strip()
                 except Exception as e:
