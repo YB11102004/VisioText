@@ -8,7 +8,7 @@
 - Overlay corrected text back onto images with professional aesthetics.
 
 ## Deployment
-Access the application on [Hugging Face Spaces](https://huggingface.co/spaces/ybhimani/AI_Enhanced_Text_to_Image_with_Intelligent_Text_Correction).
+Access the application on [Hugging Face Spaces](https://huggingface.co/spaces/ybhimani/T2I).
 
 ## Installation
 ### Prerequisites
@@ -19,7 +19,7 @@ Access the application on [Hugging Face Spaces](https://huggingface.co/spaces/yb
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://huggingface.co/spaces/ybhimani/AI_Enhanced_Text_to_Image_with_Intelligent_Text_Correction
+   git clone https://huggingface.co/spaces/ybhimani/T2I
 
 2. Install dependencies:
    ```bash
